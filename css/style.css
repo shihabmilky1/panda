@@ -1,0 +1,13 @@
+.custom-item{
+    background-color: #FCEAE8;
+}
+.categories img{
+    width: 90px;
+}
+.card-shoes, .card-bag{
+    border: 0;
+}
+.card-shoe-footer, .card-bag-footer{
+    border: 0;
+    background-color: #fff;
+}
